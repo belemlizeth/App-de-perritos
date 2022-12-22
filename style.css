@@ -1,0 +1,39 @@
+body{
+    background-color: #CDE9FF;
+    color: #003C6B;
+    text-align: center;
+}
+
+p{
+    font-size: 27px;
+    color: #1F4868;
+    font-family: 'Unbounded', cursive;
+}
+
+h1{
+    font-size: 65px;
+    font-family: 'Unbounded', cursive;
+}
+
+h2{
+    font-size: 43px;
+    font-family: 'Unbounded', cursive;
+}
+
+h3{
+    font-size: 38px;
+    font-family: 'Unbounded', cursive;
+}
+
+h5{
+    font-size: 14px;
+    font-family: 'Unbounded', cursive;
+}
+
+img{
+    width: 300px;
+}
+
+li{
+    font-size: 28px;
+}
